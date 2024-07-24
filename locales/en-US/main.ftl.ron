@@ -1,0 +1,8 @@
+(
+    locale: "en-US",
+    resources: [
+        "game.ftl",
+        "message.ftl",
+        "ability.ftl",
+    ]
+)
